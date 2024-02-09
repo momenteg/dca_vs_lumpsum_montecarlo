@@ -10,8 +10,8 @@ Sliders:
 
 
 ## run it: 
-`$ cd webapp`
-`$ streamlit run app.py`
+`$ cd webapp`  
+`$ streamlit run app.py`  
 
 
 ## To do/improvements: 
